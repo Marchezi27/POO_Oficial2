@@ -1,0 +1,11 @@
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\bin\Debug\POO_Oficial_2.exe.config
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\bin\Debug\POO_Oficial_2.exe
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\bin\Debug\POO_Oficial_2.pdb
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\obj\Debug\POO_Oficial_2.csproj.AssemblyReference.cache
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\obj\Debug\POO_Oficial_2.Form1.resources
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\obj\Debug\POO_Oficial_2.Properties.Resources.resources
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\obj\Debug\POO_Oficial_2.csproj.GenerateResource.cache
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\obj\Debug\POO_Oficial_2.csproj.CoreCompileInputs.cache
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\obj\Debug\POO_Oficial_2.exe
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\obj\Debug\POO_Oficial_2.pdb
+C:\Users\march\source\repos\POO_Oficial_2\POO_Oficial_2\obj\Debug\POO_Oficial_2.cadastro_funcionario.resources
